@@ -1,5 +1,4 @@
-/* src/akmi/term.c   16 August 1998   Alan Kennington. */
-/* $Id$ */
+/* src/akmi/term.c   2018-3-3   Alan U. Kennington. */
 /*----------------------------------------------------------------------------
 Copyright (C) 1999, Alan Kennington.
 You may distribute this software under the terms of Alan Kennington's
@@ -77,6 +76,10 @@ mdaemon_read_midi_buf
 #ifndef AKSL_X_SYS_IOCTL_H
 #define AKSL_X_SYS_IOCTL_H
 #include <sys/ioctl.h>
+#endif
+#ifndef AKSL_X_SYS_TYPES_H
+#define AKSL_X_SYS_TYPES_H
+#include <sys/types.h>
 #endif
 #endif
 
