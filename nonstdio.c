@@ -1,5 +1,4 @@
-/* src/akmi/nonstdio.c   26 January 1999   Alan Kennington. */
-/* $Id$ */
+/* src/akmi/nonstdio.c   26 January 1999   Alan U. Kennington. */
 /*----------------------------------------------------------------------------
 Copyright (C) 1999, Alan Kennington.
 You may distribute this software under the terms of Alan Kennington's

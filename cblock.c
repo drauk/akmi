@@ -1,5 +1,4 @@
-/* src/akmi/cblock.c   26 June 1995   Alan Kennington. */
-/* $Id$ */
+/* src/akmi/cblock.c   26 June 1995   Alan U. Kennington. */
 /*----------------------------------------------------------------------------
 Copyright (C) 1999, Alan Kennington.
 You may distribute this software under the terms of Alan Kennington's

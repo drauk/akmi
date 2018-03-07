@@ -1,5 +1,4 @@
-/* src/akmi/akmi.c   27 June 1995   Alan Kennington. */
-/* $Id$ */
+/* src/akmi/akmi.c   27 June 1995   Alan U. Kennington. */
 /* Alan Kennington's Music Interpreter. */
 /*----------------------------------------------------------------------------
 Copyright (C) 1999, Alan Kennington.

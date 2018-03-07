@@ -1,5 +1,4 @@
 /* src/akmi/interp.c   2013-5-18   Alan U. Kennington. */
-/* $Id$ */
 /*----------------------------------------------------------------------------
 Copyright (C) 1999, Alan U. Kennington.
 You may distribute this software under the terms of Alan Kennington's

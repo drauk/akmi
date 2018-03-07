@@ -1,5 +1,4 @@
-/* src/akmi/song.c   4 November 2000   Alan Kennington. */
-/* $Id$ */
+/* src/akmi/song.c   4 November 2000   Alan U. Kennington. */
 /*----------------------------------------------------------------------------
 Copyright (C) 1999-2000, Alan Kennington.
 You may distribute this software under the terms of Alan Kennington's
